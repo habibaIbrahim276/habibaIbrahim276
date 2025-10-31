@@ -1,4 +1,4 @@
-# Hi 👋, I'm Habiba Ebrahim
+# Hello 👋 I'm Habiba Ebrahim
 
 ### Data Analyst | Aspiring Data Scientist
 
