@@ -66,5 +66,5 @@ I enjoy exploring data, visualizing patterns, and telling stories through number
 
 ### 📊 GitHub Stats  
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=habibaIbrahim276&show_icons=true&theme=tokyonight&title_color=70a5fd&icon_color=70a5fd&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=habibaIbrahim276&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibaIbrahim276&layout=compact&theme=tokyonight&title_color=70a5fd&text_color=ffffff&bg_color=0d1117" alt="Top Languages" /> 
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=habibaIbrahim276&show_icons=true&theme=tokyonight&title_color=70a5fd&icon_color=70a5fd&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" /> </p> <p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com?user=habibaIbrahim276&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /> </p> <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibaIbrahim276&layout=compact&theme=tokyonight&title_color=70a5fd&text_color=ffffff&bg_color=0d1117" alt="Top Languages" /> 
 </p>
