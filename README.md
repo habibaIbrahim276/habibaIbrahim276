@@ -3,7 +3,7 @@
 ### Data Analyst | Aspiring Data Scientist
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=habibaIbrahim276&label=Profile views&color=0e75b6&style=flat" alt="habibaIbrahim276" /> 
+  <img src="https://komarev.com/ghpvc/?username=habibaIbrahim276&label=Profile views&color=0e75b6&style=flat" alt="Profile views counter" /> 
 </p>
 
 - 🔭 I'm currently doing **freelance data analysis work** and building projects to strengthen my skills with data analysis tools.
